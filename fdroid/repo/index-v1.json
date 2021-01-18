@@ -1,0 +1,19 @@
+{
+  "repo": {
+    "timestamp": 1610977795000,
+    "version": 21,
+    "name": "test-repo",
+    "icon": "default-repo-icon.png",
+    "address": "https://raw.githubusercontent.com/kayatugba/repomaker/master/fdroid/repo",
+    "description": "asdsadsd",
+    "mirrors": [
+      "https://raw.githubusercontent.com/kayatugba/repomaker/master/fdroid/repo/repo"
+    ]
+  },
+  "requests": {
+    "install": [],
+    "uninstall": []
+  },
+  "apps": [],
+  "packages": {}
+}
