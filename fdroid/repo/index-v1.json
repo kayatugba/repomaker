@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1610978821000,
+    "timestamp": 1610978881000,
     "version": 21,
     "name": "test-repo",
     "icon": "default-repo-icon.png",
@@ -14,6 +14,33 @@
     "install": [],
     "uninstall": []
   },
-  "apps": [],
-  "packages": {}
+  "apps": [
+    {
+      "suggestedVersionCode": "1",
+      "license": "Unknown",
+      "name": "My Application1",
+      "added": 1610978878000,
+      "icon": "com.example.myapplication1.1.png",
+      "packageName": "com.example.myapplication1",
+      "lastUpdated": 1610978881000
+    }
+  ],
+  "packages": {
+    "com.example.myapplication1": [
+      {
+        "added": 1610978881000,
+        "apkName": "app-release.apk",
+        "hash": "4625488cc4d6ccf2545c084bef1ad6dbc2b2c8782012770e90155edc3e31249f",
+        "hashType": "sha256",
+        "minSdkVersion": 16,
+        "packageName": "com.example.myapplication1",
+        "sig": "09a6261e609e406443e179f871d99a18",
+        "signer": "b15772474d85c5b4d947a1ba0c329778b6c700967bc26908d2fae7dfe41ab811",
+        "size": 3293746,
+        "targetSdkVersion": 30,
+        "versionCode": 1,
+        "versionName": "1.0"
+      }
+    ]
+  }
 }
