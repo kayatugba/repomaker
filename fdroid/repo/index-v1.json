@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1611063501000,
+    "timestamp": 1611066015000,
     "version": 21,
     "name": "test-repo",
     "icon": "default-repo-icon.png",
@@ -45,6 +45,15 @@
       "icon": "com.example.myapplication1.1.png",
       "packageName": "com.example.myapplication1",
       "lastUpdated": 1610978881000
+    },
+    {
+      "suggestedVersionCode": "1",
+      "license": "Unknown",
+      "name": "PosMqttDemo",
+      "added": 1611066013000,
+      "icon": "com.example.posmqttdemo.1.png",
+      "packageName": "com.example.posmqttdemo",
+      "lastUpdated": 1611066015000
     },
     {
       "authorName": "Guardian Project",
@@ -245,6 +254,52 @@
         "signer": "b15772474d85c5b4d947a1ba0c329778b6c700967bc26908d2fae7dfe41ab811",
         "size": 3293746,
         "targetSdkVersion": 30,
+        "versionCode": 1,
+        "versionName": "1.0"
+      }
+    ],
+    "com.example.posmqttdemo": [
+      {
+        "added": 1611066015000,
+        "apkName": "app-debug.apk",
+        "hash": "a866d96bf02a95ce0e33656153a99eeef0640c5475e3d5d72b828adda39a14e6",
+        "hashType": "sha256",
+        "minSdkVersion": 26,
+        "packageName": "com.example.posmqttdemo",
+        "sig": "ff5ca60a3e78e4f888340ecbc343b9d7",
+        "signer": "e683430a8e826cc60a5b05e29017dbbead04b93bc336fe2f5a09aa00bb5eb76c",
+        "size": 2915714,
+        "targetSdkVersion": 30,
+        "uses-permission": [
+          [
+            "android.permission.WAKE_LOCK",
+            null
+          ],
+          [
+            "android.permission.INTERNET",
+            null
+          ],
+          [
+            "android.permission.WRITE_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.ACCESS_NETWORK_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_PHONE_STATE",
+            null
+          ],
+          [
+            "android.permission.READ_EXTERNAL_STORAGE",
+            null
+          ],
+          [
+            "android.permission.FOREGROUND_SERVICE",
+            null
+          ]
+        ],
         "versionCode": 1,
         "versionName": "1.0"
       }
