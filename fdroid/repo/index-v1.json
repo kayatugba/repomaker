@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1611066063000,
+    "timestamp": 1611066097000,
     "version": 21,
     "name": "test-repo",
     "icon": "default-repo-icon.png",
@@ -48,6 +48,7 @@
     },
     {
       "categories": [
+        "Development",
         "Multimedia"
       ],
       "suggestedVersionCode": "1",
