@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1611066015000,
+    "timestamp": 1611066063000,
     "version": 21,
     "name": "test-repo",
     "icon": "default-repo-icon.png",
@@ -47,6 +47,9 @@
       "lastUpdated": 1610978881000
     },
     {
+      "categories": [
+        "Multimedia"
+      ],
       "suggestedVersionCode": "1",
       "license": "Unknown",
       "name": "PosMqttDemo",
